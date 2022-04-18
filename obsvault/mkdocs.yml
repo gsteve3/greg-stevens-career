@@ -1,0 +1,36 @@
+site_name: Greg Stevens CV
+repo_url: https://github.com/blacksmithgu/obsidian-dataview
+edit_uri: edit/master/docs/docs/
+docs_dir: 'career'
+markdown_extensions:
+  - abbr
+  - admonition
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - pymdownx.tasklist
+theme:
+  name: material
+  palette:
+    primary: deep purple
+  logo: assets/obsidian.png
+  favicon: assets/obsidian.png
+  custom_dir: overrides
+nav:
+  # - Overview: './README.md'
+  - Overview: '2022-04-14 Atlassian/001 - Greg Stevens for Atlassian Career Opportunities.md'
+plugins:
+  - search
+  # - redirects:
+  #     redirect_maps:
+  #       docs/where-data-comes-from.md: data-annotation.md
+  #       docs/creating-queries.md: data-queries.md
+  #       docs/query/queries.md: query/queries.md
+  #       docs/query/expressions.md: query/expressions.md
+  #       docs/query/sources.md: query/sources.md
+  #       docs/query/functions.md: query/functions.md
+  #       docs/query/examples.md: query/examples.md
+  #       docs/api/intro.md: api/intro.md
+  #       docs/api/data-array.md: api/data-array.md
+  #       docs/api/code-reference.md: api/code-reference.md
+  #       docs/api/code-examples.md: api/code-examples.md
