@@ -17,19 +17,19 @@
 	- Drupal
 - **Documentation**
 	- Markdown (fluent, with help of [Obsidian](https://obsidian.md/) it made this resume)
-- 
+- Many more...
 
 
 
-#### Non-prod
+### Non-prod
 - **Python**
 	-  (little bit, working on an open-source mapping for EQBank.ca Financial Downloads, convert their weird CSV to Quicken QIF and Quickbooks QBO Format)
+		- [[Social Media - Greg - @gsteve3#csv2ofx]]
 	- Excited to make my first, albeit little, contribution back to open source.
 	- Nice learning Python again. Used to hack on it as a young teen, along with Perl CGI, remember that?! Before CSS 1 even.
 - **PowerBI, M, Q**
 
 ### Interested In
-
 - Go
 - k8, deeper into Containers in general
 - Microservices

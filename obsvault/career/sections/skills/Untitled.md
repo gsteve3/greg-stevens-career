@@ -1,0 +1,7 @@
+- [[career/sections/skills/Domain Name Management]]
+	- Apex Domains
+	- Cloudflare
+	- Netlify
+	- Namecheap
+		- Other registrars (Webnames, Hover, some German one for a unique international client, ...)
+	-

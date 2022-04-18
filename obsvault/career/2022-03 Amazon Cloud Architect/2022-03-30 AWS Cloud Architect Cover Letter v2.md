@@ -16,7 +16,7 @@ Not sure what yet, but something soon!
 
 
 
-![[010 - Example Geek Stuff (Portfolio)]]
+![[../sections/tech/010 - Example Geek Stuff (Portfolio)]]
 
 
 ## Example Git Commits in Public Places
