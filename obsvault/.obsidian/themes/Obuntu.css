@@ -255,8 +255,9 @@ input[type="checkbox"]:checked {
   cursor: pointer;
   filter: none; /*remove default filter*/
 }
-.markdown-preview-view .task-list-item {
+.markdown-preview-view .task-list-item li {
   padding-inline-start: 25px;
+  color: green !important;
 }
 
 /* code block: dark background */

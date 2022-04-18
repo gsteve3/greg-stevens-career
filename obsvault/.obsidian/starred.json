@@ -14,6 +14,21 @@
       "type": "file",
       "title": "My Keyboard - ZSA Moonlander Mark 1",
       "path": "ZZZ ARCHIVED MOVE TO OWN REPO - 2022-04-14 career/sections/geek-portfolio/My Keyboard - ZSA Moonlander Mark 1.md"
+    },
+    {
+      "type": "file",
+      "title": "001 Greg Stevens for Atlassian Career Opportunities",
+      "path": "career/2022-04-14 Atlassian/README - Greg Stevens for Atlassian.md"
+    },
+    {
+      "type": "file",
+      "title": "300 TODO Kanban Board",
+      "path": "todo/300 TODO Kanban Board.md"
+    },
+    {
+      "type": "file",
+      "title": "obsidian-admonition",
+      "path": "career/vendors-tools/obsidian/obsidian-admonition.md"
     }
   ]
 }

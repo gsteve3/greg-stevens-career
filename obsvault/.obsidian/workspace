@@ -4,22 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9b0be09725a9c3a8",
+        "id": "026c79fb8e4dc1ee",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "9b0be09725a9c3a8",
-              "group": null,
-              "state": "{\"type\":\"empty\",\"state\":{}}",
-              "eState": "{}"
-            }
-          ]
+          "type": "markdown",
+          "state": {
+            "file": "career/sections/contact/index.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -30,19 +23,23 @@
     "type": "split",
     "children": [
       {
-        "id": "bd4dc03abf041677",
+        "id": "84173ababa66a251",
         "type": "tabs",
         "children": [
+          {
+            "id": "eca097d4e3c04995",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
           {
             "id": "8094dc0ddc76d51d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
             }
           },
           {
@@ -51,36 +48,21 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Transclude",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
-          },
-          {
-            "id": "eca097d4e3c04995",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 370
   },
   "right": {
     "id": "a0c6f58548806641",
@@ -96,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "career/sections/contact/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,10 +87,6 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
             }
           },
           {
@@ -116,10 +95,6 @@
             "state": {
               "type": "calendar",
               "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
             }
           },
           {
@@ -128,13 +103,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "career/sections/contact/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
             }
           },
           {
@@ -146,10 +118,6 @@
                 "sortOrder": "frequency",
                 "useHierarchy": true
               }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
             }
           },
           {
@@ -157,35 +125,46 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
+              "state": {
+                "file": "career/sections/contact/index.md"
+              }
             }
           },
           {
-            "id": "4592a1cb4d92d161",
+            "id": "2a4db105ccfb2126",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "be00d42e6a37127c",
             "type": "leaf",
             "state": {
               "type": "Saved Queries View",
               "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "9b0be09725a9c3a8",
+  "active": "026c79fb8e4dc1ee",
   "lastOpenFiles": [
-    "career/2022-04-14 Atlassian/001 Greg Stevens for Atlassian Career Opportunities.md",
+    "career/sections/contact/index.md",
+    "_attachments/MarkDownload - Browser Extension for MS Edge.md",
+    "_attachments/Insomnia HTTP Testing.md",
+    "atlassian/index.md",
+    "_attachments/atlassian.md",
+    "_attachments/Goodreads.com `@gsteve3`.md",
+    "career/sections/contact/Goodreads.com @gsteve3.md",
+    "_attachments/Social Engineering.md",
+    "career/sections/ops/Privacy.md",
     "README.md"
   ]
 }

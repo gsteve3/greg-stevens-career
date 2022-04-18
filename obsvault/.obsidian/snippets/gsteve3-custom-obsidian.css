@@ -12,22 +12,57 @@
     transition: transform 0.25s ease;
 }
 */
-.markdown-preview-view img {
+/* .markdown-preview-view img {
     display: block;
     margin-top: 2rem;
     margin-bottom: 2rem;
     margin-left: auto;
     margin-right: auto;
-    /* width: auto; */
+    width: auto;
     max-width: 90%;
-    /* transition: transform 0.25s ease; */
+    transition: transform 0.25s ease;
 }
 
 .markdown-preview-view img:hover {
     transition: none;
     transform: none;
+} */
+
+
+.markdown-preview-view img:hover {
+    -webkit-transform: none;
+    transform: none;
 }
 
+img {
+    border: 1px solid #ccc;
+}
+
+/* ul > :not(li.task-list-item[data-task="x"] li,
+ul > :not(li.task-list-item[data-task="X"] li */
+/* body div.markdown-preview-view ul.contains-task-list li.task-list-item ul li,
+body ul > li.task-list-item[data-task="x"] ul li ul li,
+body ul > li.task-list-item[data-task="X"] ul li ul li */
+/* body div.markdown-preview-view ul.contains-task-list li.task-list-item ul li,
+body ul > li.task-list-item[data-task="x"], */
+
+/* document.querySelector("body > div.app-container.is-left-sidedock-collapsed.is-right-sidedock-collapsed > div.horizontal-main-container > div > div.workspace-split.mod-vertical.mod-root.maximised > div.workspace-leaf.mod-active.stayopen > div > div.view-content > div.markdown-reading-view > div.markdown-preview-view.markdown-rendered.node-insert-event.allow-fold-headings.show-indentation-guide.allow-fold-lists.show-frontmatter > div") */
+/* body div.app-container div.view-content div.markdown-reading-view div.markdown-preview-view ul li */
+body div.app-container div.view-content ul.contains-checklist li,
+body .markdown-preview-view ul>li.task-list-item.is-checked,
+body .markdown-source-view.mod-cm6 .HyperMD-task-line[data-task]:not([data-task=" "])
+{
+    text-decoration: none !important;
+    text-decoration-line: none !important;
+    text-decoration-style: dotted;
+    color: green !important;
+}
+
+/* from app.css line 3860 */
+ul > li.task-list-item[data-task="x"],
+ul > li.task-list-item[data-task="X"] {
+    text-decoration: none;
+}
 
 /*
 /* .markdown-source-view { */

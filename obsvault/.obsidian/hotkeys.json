@@ -204,16 +204,6 @@
       "key": "L"
     }
   ],
-  "obsidian-show-file-path:copy-file-path": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod",
-        "Shift"
-      ],
-      "key": "L"
-    }
-  ],
   "editor:focus-right": [
     {
       "modifiers": [
@@ -400,6 +390,12 @@
         "Alt"
       ],
       "key": "/"
+    },
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "E"
     }
   ],
   "obsidian-shellcommands:shell-command-1": [
@@ -466,6 +462,55 @@
         "Shift"
       ],
       "key": "Delete"
+    }
+  ],
+  "templater-obsidian:insert-templater": [],
+  "editor:open-link-in-new-leaf": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "Enter"
+    }
+  ],
+  "publish:view-changes": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "U"
+    }
+  ],
+  "file-explorer:move-file": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "M"
+    }
+  ],
+  "markdown-importer:open": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "I"
+    }
+  ],
+  "workspace:split-vertical": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "ArrowRight"
     }
   ]
 }
