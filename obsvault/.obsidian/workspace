@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "026c79fb8e4dc1ee",
+        "id": "6009b32fc7f30225",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "career/sections/contact/index.md",
-            "mode": "source",
+            "file": "README.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Transclude",
+                "query": "tag:#Windows",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,7 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 370
+    "width": 499
   },
   "right": {
     "id": "a0c6f58548806641",
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "career/sections/contact/index.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "career/sections/contact/index.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": true
               }
             }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "career/sections/contact/index.md"
+                "file": "README.md"
               }
             }
           },
@@ -142,29 +142,36 @@
             "id": "be00d42e6a37127c",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "139c95b3e2d6567a",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {}
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "026c79fb8e4dc1ee",
+  "active": "6009b32fc7f30225",
   "lastOpenFiles": [
-    "career/sections/contact/index.md",
-    "_attachments/MarkDownload - Browser Extension for MS Edge.md",
-    "_attachments/Insomnia HTTP Testing.md",
-    "atlassian/index.md",
-    "_attachments/atlassian.md",
-    "_attachments/Goodreads.com `@gsteve3`.md",
-    "career/sections/contact/Goodreads.com @gsteve3.md",
-    "_attachments/Social Engineering.md",
-    "career/sections/ops/Privacy.md",
-    "README.md"
+    "README.md",
+    "_attachments/Untitled 5.md",
+    "_attachments/Untitled 4.md",
+    "tools/obsidian/help-obsidian/YAML front matter - Obsidian Help.md",
+    "tools/obsidian/Obsidian Publish.md",
+    "tools/obsidian/Obsidian.md",
+    "tools/obsidian/plugins/obsidian-dataview.md",
+    "tools/obsidian/plugins/obsidian-admonition.md",
+    "tools/obsidian/help-obsidian/Obsidian - Aliases.md",
+    "_attachments/Windows Terminal.md"
   ]
 }

@@ -28,7 +28,12 @@
     {
       "type": "file",
       "title": "obsidian-admonition",
-      "path": "career/vendors-tools/obsidian/obsidian-admonition.md"
+      "path": "tools/obsidian/plugins/obsidian-admonition.md"
+    },
+    {
+      "type": "file",
+      "title": "README",
+      "path": "README.md"
     }
   ]
 }

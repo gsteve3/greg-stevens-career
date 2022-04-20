@@ -217,24 +217,13 @@
         "Mod"
       ],
       "key": "Tab"
-    }
-  ],
-  "editor:focus-bottom": [
+    },
     {
       "modifiers": [
         "Alt",
-        "Shift"
+        "Mod"
       ],
-      "key": "ArrowDown"
-    }
-  ],
-  "editor:focus-top": [
-    {
-      "modifiers": [
-        "Alt",
-        "Shift"
-      ],
-      "key": "ArrowUp"
+      "key": "ArrowRight"
     }
   ],
   "editor:focus-left": [
@@ -251,6 +240,13 @@
         "Shift"
       ],
       "key": "Tab"
+    },
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "ArrowLeft"
     }
   ],
   "obsidian-fullscreen-plugin:fullscreen-focus": [
@@ -373,6 +369,13 @@
         "Shift"
       ],
       "key": "Enter"
+    },
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "5"
     }
   ],
   "obsidian-mind-map:app:markmap-preview": [
@@ -478,20 +481,9 @@
     {
       "modifiers": [
         "Alt",
-        "Mod",
         "Shift"
       ],
-      "key": "U"
-    }
-  ],
-  "file-explorer:move-file": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod",
-        "Shift"
-      ],
-      "key": "M"
+      "key": "P"
     }
   ],
   "markdown-importer:open": [
@@ -511,6 +503,75 @@
         "Shift"
       ],
       "key": "ArrowRight"
+    }
+  ],
+  "copy-publish-url:open-publish-url": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "O"
+    }
+  ],
+  "note-composer:extract-heading": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "1"
+    }
+  ],
+  "file-explorer:move-file": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "M"
+    }
+  ],
+  "editor:toggle-numbered-list": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "6"
+    }
+  ],
+  "editor:toggle-checklist-status": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "7"
+    }
+  ],
+  "editor:cycle-list-checklist": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "5"
+    },
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Enter"
+    }
+  ],
+  "obsidian-shellcommands:shell-command-0": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "`"
     }
   ]
 }
