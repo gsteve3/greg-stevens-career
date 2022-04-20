@@ -28,9 +28,6 @@ dns4.p07.nsone.net
 ```
 
 
-[gsteve3/greg-stevens-career-cv: CV, Career Highlights, Resume, all sorts of stuff to help people see what I do, and maybe work together. (github.com)](https://github.com/gsteve3/greg-stevens-career-cv)
-
-
 
 ---
 ## Testing
@@ -40,7 +37,7 @@ https://stevens.pro/
 https://greg.stevens.pro/
 https://career.greg.stevens.pro/
 
-*`career.` is the new [[career/vendors-tools/Obsidian Publish]] Site*
+*`career.` is the new [[Obsidian Publish]] Site*
 
 
 

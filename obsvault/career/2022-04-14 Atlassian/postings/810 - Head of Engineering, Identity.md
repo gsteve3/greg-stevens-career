@@ -87,7 +87,7 @@ The ideal candidate is an effective communicator that has experience influencing
 	- Somewhat
 - [x] #absolutely **Ability to communicate directly and clearly, with a strong emphasis on careful listening and empathy, and a bias toward action**
 	- See other posting or overall resume for examples.
-	- In fact, I think my resume, git repo, diagram of me in [[career/vendors-tools/obsidian/Excalidraw]], etc. is a great example.
+	- In fact, I think my resume, git repo, diagram of me in [[Excalidraw Standalone and Obsidian Plugin - Open Source Diagramming]], etc. is a great example.
 	- I could be wrong though, please let me know! Please! Your word holds clout.
 
 

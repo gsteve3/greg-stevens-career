@@ -5,7 +5,7 @@ updated: 2022-03-14T16:58:14-06:00
 # README - Amazon Cloud Architect - Application
 Hello,
 
-You want the [[career/vendors-tools/obsidian/Excalidraw]] Diagram below:
+You want the [[Excalidraw Standalone and Obsidian Plugin - Open Source Diagramming]] Diagram below:
 
 [[002 - Greg Stevens - Application to become an Amazon Cloud Architect - 2022-03-11.excalidraw]]
 
