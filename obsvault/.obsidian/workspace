@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
-            "mode": "preview",
+            "file": "blog/Thursday, April 21, 2022.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "blog/Thursday, April 21, 2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "blog/Thursday, April 21, 2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "blog/Thursday, April 21, 2022.md"
               }
             }
           },
@@ -159,19 +159,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "6009b32fc7f30225",
   "lastOpenFiles": [
+    "blog/Thursday, April 21, 2022.md",
+    "templater/DailyNoteTemplate.md",
+    "templater/date.md",
     "README.md",
     "_attachments/Untitled 5.md",
     "_attachments/Untitled 4.md",
     "tools/obsidian/help-obsidian/YAML front matter - Obsidian Help.md",
     "tools/obsidian/Obsidian Publish.md",
     "tools/obsidian/Obsidian.md",
-    "tools/obsidian/plugins/obsidian-dataview.md",
-    "tools/obsidian/plugins/obsidian-admonition.md",
-    "tools/obsidian/help-obsidian/Obsidian - Aliases.md",
-    "_attachments/Windows Terminal.md"
+    "tools/obsidian/plugins/obsidian-dataview.md"
   ]
 }

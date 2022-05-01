@@ -66,6 +66,13 @@ yet powerful enough to be ran as a part of a [[DevOps Pipeline]].
 
 
 
+## Other Dalyle/Greg Properties
+
+1. https://dalyle.statuspage.io/
+	1. Had real updates back in 2021, past the 90 day history so you cannot see them.
+	2. Posted new-update on [[Thursday, April 21, 2022]].
+	3. 
+
 
 ---
 

@@ -572,6 +572,13 @@
         "Shift"
       ],
       "key": "`"
+    },
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "J"
     }
-  ]
+  ],
+  "obsidian-editor-shortcuts:joinLines": []
 }

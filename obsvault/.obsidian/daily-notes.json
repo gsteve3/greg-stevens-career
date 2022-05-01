@@ -1,5 +1,5 @@
 {
-  "folder": "daily-notes",
-  "autorun": true,
-  "template": "templater/DayPlannerTemplate"
+  "folder": "blog",
+  "autorun": false,
+  "template": "templater/DailyNoteTemplate"
 }
