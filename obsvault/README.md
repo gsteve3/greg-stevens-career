@@ -1,10 +1,17 @@
-# README
+# README //career.stevens.pro
 
-This README *(homepage, index, home, etc.)* is for the git repo! For those browsing through:
+Hello 👋,
 
-Please note, this was created and works with [Obsidian](https://obsidian.md), the GitHub, Bitbucket, or other Markdown renderer won't work right, yet.
+This README *(homepage, index, home, etc.)* is for the git repo and the Website!
 
-Open the root of this git repo as an Obsidian Vault for the best experience.
+- Please note, this project was expanded from my attempt at creating a resume.
+- Plan was to use the main tool behind my digital brain, [Obsidian](https://obsidian.md).
+- Using Obsidian allowed me to [[Transclusion - Wikipedia|Transclude]] *("include")*
+created and works with
+
+*(GitHub, Bitbucket, or other Markdown renderer won't work right, yet.)*
+
+Open the root of 	this git repo as an Obsidian Vault for the best experience.
 
 Fun starts in the [`career/` folder](README%20-%20Greg%20Stevens%20for%20Atlassian.md) :).
 
@@ -71,7 +78,7 @@ yet powerful enough to be ran as a part of a [[DevOps Pipeline]].
 1. https://dalyle.statuspage.io/
 	1. Had real updates back in 2021, past the 90 day history so you cannot see them.
 	2. Posted new-update on [[Thursday, April 21, 2022]].
-	3. 
+	3.
 
 
 ---
