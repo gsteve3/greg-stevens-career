@@ -105,7 +105,8 @@ div.site-footer {
   --interactive-accent-hover: var(--accent-2-muted);
 
   --background-accent: #000;
-  --background-modifier-border: var(--accent-2);
+  /* --background-modifier-border: var(--accent-2); */
+  --background-modifier-border: rgba(255, 0, 255, 0.5);
 
   --text-highlight-bg: #ffd319;
 
@@ -535,3 +536,6 @@ button.mod-warning {
   100% {text-shadow: 2.6208764473832513px 0 1px rgba(0,30,255,0.5), -2.6208764473832513px 0 1px rgba(255,0,80,0.3), 0 0 3px;}
 }
 /**/
+
+
+@import url('.obsidian/snippets/gsteve3-custom-neon80s.css');
