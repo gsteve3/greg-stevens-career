@@ -1,5 +1,9 @@
-## Adobe ColdFusion Certification
-+ Advanced Cert (> 90% on exam)
+---
+created: 2022-05-04T18:10:57-06:00
+updated: 2022-05-04T18:10:57-06:00
+---
+## Adobe ColdFusion Advanced Certification
++ Special `Advanced` Rating on Cert (> some percentage on the exam)
 
 - ~20....25??? years old
 - Took with another developer, and then CTO of the Agency.
@@ -10,4 +14,4 @@
 
 WARNING:
 
-Bragadocious ^szYNbh9Q
+#Bragadocious ^szYNbh9Q

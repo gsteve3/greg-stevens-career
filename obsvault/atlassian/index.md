@@ -1,5 +1,5 @@
-# index
+# /atlassian Index
 
-Index test....
+Please see [[Atlassian|org/atlassian]]
 
 

@@ -1,0 +1,19 @@
+Epic has confirmed to Epic Games that Epic Games is hiring full-time, funded US-based workers _the edge_. The _It is an electronic game_ The developer is expanding the offer to include Quality Assurance (QA) testers, as well as other “qualified” employees on contract.
+
+The news first appeared in a memorandum to confront the employee he obtained _the edge_. In the memo, the company wrote that it will “offer full-time employment opportunities at will to qualified temporary workers in the United States,” and that “many of these offerings will be effective April 4, 2022.” But he also notes that some workers will not receive the offer, noting “there are a few exceptions where it makes sense for both the worker and Epic to maintain the emergency worker status.”
+
+Epic spokeswoman Elka Lux said: _the edge_ That the game developer will hire “a few hundred” of its contractors, and that “most but not all” of them are Quality Assurance (QA) testers. Looks has confirmed that all workers will be eligible for the company’s US employee benefit plans, and will also be employed directly by Epic Games. The studio is currently contracting quality assurance testers and other workers through temporary agencies, including Eastridge, Hays and Nextaff.
+
+Lux also said the company will continue to hire temporary workers for “short-term needs.” It did not have any additional information to share about what other types of unit workers (outside of the QA labs) Epic would be hiring, and did not specify which workers are excluded from the offer.
+
+Epic’s move to make its contract workers full-time employees comes at a time of rising tensions between workers and major game development studios; Not to mention it is a big step towards improving working conditions for QA testers and other workers. In December, Activision’s Raven [Layoff dozens of quality assurance testing](https://www.theverge.com/2021/12/3/22816827/raven-software-qa-contractor-layoff-activision-blizzard-call-of-duty)And the [Which prompted the withdrawal](https://www.theverge.com/2021/12/6/22820549/activision-blizzard-raven-software-layoffs-walkout-call-of-duty)and later [Organization of the Federation of Game Workers](https://www.theverge.com/2022/1/21/22894964/activision-blizzard-raven-software-employees-create-game-workers-alliance-union).
+
+The gaming industry has become known for subjugating workers to it [Incredibly long hours](https://www.theverge.com/2018/10/15/17979606/rockstar-red-dead-redemption-2-crunch-100-hour-work-week) During (sometimes unpaid) periods called “crisis,” and Epic is no exception. In 2019, Epic was met with criticism after its publication [Workers revealed long working days](https://www.polygon.com/2019/4/23/18507750/fortnite-work-crunch-epic-games) that go into keeping the hugely popular battle royale, _It is an electronic game_on track with fan expectations. [Epic Games later closed their studios for two weeks](https://www.polygon.com/2019/6/21/18693475/fortnite-two-week-break-content-update-studio-close-epic-games-crunch) In response to employee concerns.
+
+last year, [Epic Games has ended a COVID-era policy allowing workers to take time off every Friday](https://www.bloomberg.com/news/articles/2021-10-22/epic-games-ends-alternate-friday-vacation-policy-angering-staff), annoys employees who say an extra day off is beneficial. Number of independent developers [Moved to the four-day work week](https://www.theverge.com/2022/1/14/22882669/video-game-studios-four-day-workweek)including Young Horses, Crow Crow, Die Gute Fabrik, and more.
+
+![](https://osoyoostoday.ca/wp-content/uploads/2021/08/download-32.jpg)
+
+“Avid travel ninja. Devoted pop culture fanatic. Freelance coffee enthusiast. Evil analyst.”
+
+## Continue Reading

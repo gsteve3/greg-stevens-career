@@ -17,7 +17,17 @@
     },
     {
       "type": "file",
-      "title": "001 Greg Stevens for Atlassian Career Opportunities",
+      "title": "README",
+      "path": "README.md"
+    },
+    {
+      "type": "file",
+      "title": "Blueprint to a Better Web Industry",
+      "path": "career/sections/projects/betterweb/Blueprint to a Better Web Industry.md"
+    },
+    {
+      "type": "file",
+      "title": "README - Greg Stevens for Atlassian",
       "path": "career/2022-04-14 Atlassian/README - Greg Stevens for Atlassian.md"
     },
     {
@@ -31,9 +41,9 @@
       "path": "tools/obsidian/plugins/obsidian-admonition.md"
     },
     {
-      "type": "file",
-      "title": "README",
-      "path": "README career.stevens.pro.md"
+      "type": "search",
+      "title": "embed",
+      "query": "embed"
     }
   ]
 }

@@ -467,7 +467,6 @@
       "key": "Delete"
     }
   ],
-  "templater-obsidian:insert-templater": [],
   "editor:open-link-in-new-leaf": [
     {
       "modifiers": [
@@ -580,5 +579,23 @@
       "key": "J"
     }
   ],
-  "obsidian-editor-shortcuts:joinLines": []
+  "obsidian-editor-shortcuts:joinLines": [],
+  "templater-obsidian:insert-templater": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "T"
+    }
+  ],
+  "obsidian-icons-plugin:open-icons-plugin-modal": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "I"
+    }
+  ]
 }

@@ -1,9 +1,9 @@
 {
-  "baseFontSize": 12,
-  "theme": "moonstone",
+  "baseFontSize": 9,
+  "theme": "obsidian",
   "cssTheme": "80s Neon",
   "translucency": false,
   "enabledCssSnippets": [
-    "gsteve3-custom-obsidian"
+    "gsteve3-custom-neon80s"
   ]
 }
