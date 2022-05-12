@@ -1,5 +1,6 @@
 .*
-!.obsidian
+!.obsidian/
+!.vscode/
 
 # .trash/
 # .exports/

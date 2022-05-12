@@ -3,6 +3,17 @@
     "files.insertFinalNewline": false,
     "conventionalCommits.scopes": [
         "obsidian",
-        "ui"
+        "ui",
+        "vscode"
+    ],
+    "open.fileMappings": [
+        {
+            "output2": "obsidian://open?vault=obsvault&file=../${editor:relativeFile}",
+            "pattern2": "${editor:file}",
+            "pattern": "(?<group_1>obsvault\\\\)(?<group_2>(.+?)*)",
+            "output": "obsidian://open?vault=obsvault&file=${match:group_2}",
+            "lineSeparator": "#",
+            "linePrefix": "L"
+        }
     ]
 }
