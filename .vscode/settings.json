@@ -4,7 +4,8 @@
     "conventionalCommits.scopes": [
         "obsidian",
         "ui",
-        "vscode"
+        "vscode",
+        "gitrepo"
     ],
     "open.fileMappings": [
         {
