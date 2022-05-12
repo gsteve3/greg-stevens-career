@@ -1,24 +1,92 @@
 {
   "recentFiles": [
     {
-      "basename": "Obsidian Publish",
-      "path": "tools/obsidian/Obsidian Publish.md"
+      "basename": "Greg Stevens - DevOps, Cloud, Full-stack Web Dev, PM, Agile - v2022.2.1",
+      "path": "resume/Greg Stevens - DevOps, Cloud, Full-stack Web Dev, PM, Agile - v2022.2.1.pdf"
+    },
+    {
+      "basename": "2022-05-11 Paper Resume Scratchpad",
+      "path": "resume/2022-05-11 Paper Resume Scratchpad.md"
     },
     {
       "basename": "README",
       "path": "README.md"
     },
     {
-      "basename": "YouTube - @GregWorks - Featured GetToKnowMe Video",
-      "path": "contact/YouTube - @GregWorks - Featured GetToKnowMe Video.md"
-    },
-    {
-      "basename": "Do ris links work with Obsidian Publish - No",
-      "path": "experiments/Do ris links work with Obsidian Publish - No.md"
+      "basename": "YouTube - UltimoPenguin7 Gaming @up7gaming",
+      "path": "contact/YouTube - UltimoPenguin7 Gaming @up7gaming.md"
     },
     {
       "basename": "Web Dev Application - Hatch and Greg Stevens - 2022-05-04",
       "path": "organizations/hatch-epic/Web Dev Application - Hatch and Greg Stevens - 2022-05-04.md"
+    },
+    {
+      "basename": "GIT_REPO",
+      "path": "GIT_REPO.md"
+    },
+    {
+      "basename": "YouTube - @GregWorks - Featured GetToKnowMe Video",
+      "path": "contact/YouTube - @GregWorks - Featured GetToKnowMe Video.md"
+    },
+    {
+      "basename": "Amazon",
+      "path": "organizations/amazon/Amazon.md"
+    },
+    {
+      "basename": "2022-05-11",
+      "path": "blog/2022-05-11.md"
+    },
+    {
+      "basename": "2022-05-11 VeraCrypt vs Cryptomator for Local and Cloud Encryption",
+      "path": "blog/2022-05-11 VeraCrypt vs Cryptomator for Local and Cloud Encryption.md"
+    },
+    {
+      "basename": "DailyNoteTemplate",
+      "path": "templater/DailyNoteTemplate.md"
+    },
+    {
+      "basename": "Screenshot 2022-04-14 at 19-08-42 (46) LinkedIn",
+      "path": "career/images/linkedin-assesments/Screenshot 2022-04-14 at 19-08-42 (46) LinkedIn.png"
+    },
+    {
+      "basename": "LinkedIn Skill Assessments",
+      "path": "career/sections/achievements/LinkedIn Skill Assessments.md"
+    },
+    {
+      "basename": "Untitled 7",
+      "path": "_attachments/Untitled 7.md"
+    },
+    {
+      "basename": "Greg Stevens - Full-stack Web Developer DevOps Agile PM - Cover Photo - 2022-04-14",
+      "path": "career/images/profile-pics/Greg Stevens - Full-stack Web Developer DevOps Agile PM - Cover Photo - 2022-04-14.png"
+    },
+    {
+      "basename": "2022-05-09 MS Publisher Resume Draft",
+      "path": "_attachments/2022-05-09 MS Publisher Resume Draft.md"
+    },
+    {
+      "basename": "2022-05-09",
+      "path": "blog/2022-05-09.md"
+    },
+    {
+      "basename": "2022-05-06",
+      "path": "blog/2022-05-06.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "organizations/amazon/Untitled.md"
+    },
+    {
+      "basename": "TODO - Add Skills to Resume from Atlassian Postings",
+      "path": "organizations/atlassian/TODO - Add Skills to Resume from Atlassian Postings.md"
+    },
+    {
+      "basename": "Obsidian Publish",
+      "path": "tools/obsidian/Obsidian Publish.md"
+    },
+    {
+      "basename": "Do ris links work with Obsidian Publish - No",
+      "path": "experiments/Do ris links work with Obsidian Publish - No.md"
     },
     {
       "basename": "2022-05-04-static-site-generator-examples-from-my-sites",
@@ -50,7 +118,7 @@
     },
     {
       "basename": "README - Greg Stevens for Atlassian",
-      "path": "career/2022-04-14 Atlassian/README - Greg Stevens for Atlassian.md"
+      "path": "organizations/atlassian/README - Greg Stevens for Atlassian.md"
     },
     {
       "basename": "Web Back-End Developer - Epic Games (Remote)  hatch",
@@ -62,7 +130,7 @@
     },
     {
       "basename": "002 - Greg Stevens - Application to become an Amazon Cloud Architect - 2022-03-11.excalidraw",
-      "path": "career/2022-03 Amazon Cloud Architect/002 - Greg Stevens - Application to become an Amazon Cloud Architect - 2022-03-11.excalidraw.md"
+      "path": "organizations/amazon/002 - Greg Stevens - Application to become an Amazon Cloud Architect - 2022-03-11.excalidraw.md"
     },
     {
       "basename": "README",
@@ -71,10 +139,6 @@
     {
       "basename": "Blueprint to a Better Web Industry",
       "path": "career/sections/projects/betterweb/Blueprint to a Better Web Industry.md"
-    },
-    {
-      "basename": "Amazon",
-      "path": "organizations/amazon/Amazon.md"
     },
     {
       "basename": "Blueprint to a Better Web Industry v2022.1 2022-03-30",
@@ -94,7 +158,7 @@
     },
     {
       "basename": "810 - Head of Engineering, Identity",
-      "path": "career/2022-04-14 Atlassian/postings/810 - Head of Engineering, Identity.md"
+      "path": "organizations/atlassian/postings/810 - Head of Engineering, Identity.md"
     },
     {
       "basename": "2022-05-04 Hatch Epic Job Posting - Annotated by gsteve3",

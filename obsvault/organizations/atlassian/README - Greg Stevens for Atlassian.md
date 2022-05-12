@@ -1,3 +1,7 @@
+---
+created: 2022-05-05T11:21:17-06:00
+updated: 2022-05-09T16:06:23-06:00
+---
 # README - Greg Stevens for Atlassian
 Calgary, AB, Canada
 
@@ -5,7 +9,7 @@ Calgary, AB, Canada
 
 #resume #career
 
-[![Greg Stevens - Cover Photo - stevens.pro](./../images/Screenshot%202022-04-14%20at%2012-31-35%20Greg%20Stevens%20-%20Full-stack%20Web%20Developer%20DevOps%20Agile%20PM.png)](https://www.stevens.pro)
+[![Greg Stevens - Cover Photo - stevens.pro](Greg%20Stevens%20-%20Full-stack%20Web%20Developer%20DevOps%20Agile%20PM%20-%20Cover%20Photo%20-%202022-04-14.png)](https://www.stevens.pro)
 ![[dalyle-logo-textured-bg.png]] 
  _Screenshots from [www.stevens.pro](https://www.stevens.pro) and [www.dalyle.ca](https//www.dalyle.ca/)_
 
@@ -108,7 +112,7 @@ Or give you some dope #KeyboardShortcuts :)
 
 
 ### Operating Systems
-![[../sections/tech/Operating Systems#Regularly use Different Operating Systems]]
+![[Operating Systems#Regularly use Different Operating Systems]]
 
 
 ### Programming Languages
@@ -120,11 +124,11 @@ Or give you some dope #KeyboardShortcuts :)
 
 
 ### Security
-![[../sections/ops/Security]]
+![[Security]]
 
 
 ## Philosophies
-![[../sections/philosophies/000 Philosophies Index]]
+![[000 Philosophies Index]]
 
 
 ## ~~Hobbies~~ Other Passions
@@ -161,7 +165,7 @@ Please see PDF Export of a Pitch I made, mainly to learn www.pitch.com and it ha
 ### Moarrr
 
 #### Started Managing SMB Networks as a Young Teenager
-![[../sections/experience/Manage SMB Networks as Young Teen]]
+![[Manage SMB Networks as Young Teen]]
 
 #### Website Link, 404 Scanning
 ![[Website Link, 404 Scanning]]

@@ -16,7 +16,13 @@
   "app:toggle-right-sidebar": [
     {
       "modifiers": [
-        "Mod"
+        "Alt"
+      ],
+      "key": "\\"
+    },
+    {
+      "modifiers": [
+        "Alt"
       ],
       "key": "]"
     }

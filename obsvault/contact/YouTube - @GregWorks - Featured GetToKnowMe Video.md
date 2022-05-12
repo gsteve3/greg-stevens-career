@@ -1,6 +1,7 @@
 ---
 created: 2022-05-04T17:24:42-06:00
-updated: 2022-05-05T10:44:13-06:00
+updated: 2022-05-11T11:25:43-06:00
+aliases: [video]
 ---
 # YouTube - @GregWorks - Featured GetToKnowMe Video
 

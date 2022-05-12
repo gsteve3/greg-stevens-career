@@ -3,7 +3,7 @@
 excalidraw-plugin: parsed
 
 created: 2022-03-13T11:53:17-06:00
-updated: 2022-03-15T14:31:30-06:00
+updated: 2022-05-05T11:22:28-06:00
 ---
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
 
@@ -215,10 +215,10 @@ d2632f273f71d0ab3b3a68e2827fcddb96200e85: [[attachments/Pasted Image 20220314124
 eaa6e5d1950214d47d51ed0ef6192157f2bf499c: [[attachments/Pasted Image 20220314125110_993.png]]
 53d494b8f641e54d9651c04a054fba33c6fd0632: [[attachments/Pasted Image 20220314130529_270.png]]
 b7352abc926c220ca79de2e7cec94d10bec4a6d6: [[attachments/Pasted Image 20220314131239_138.png]]
-47de0b58c27562e5d64002a9bc05b0343c96a360: [[career/2022-03 Amazon Cloud Architect/Services by Dalyle for AWS Career.md]]
+47de0b58c27562e5d64002a9bc05b0343c96a360: [[Services by Dalyle for AWS Career]]
 4c68eb7c5f9c96a83d1818e2320f58fbe0a0adbb: [[attachments/Pasted Image 20220314133114_650.png]]
 9fbe8b4f257ae0b8f632a23f85de3472dbb7dec4: [[101 - Greg Soft Skills]]
-d18f89fbac9b7f52e11329f4b750d4c5f0f9ed81: [[career/2022-03 Amazon Cloud Architect/102 - Greg Hard Skills.md]]
+d18f89fbac9b7f52e11329f4b750d4c5f0f9ed81: [[102 - Greg Hard Skills]]
 
 # Text Elements
 Greg
@@ -541,22 +541,22 @@ d2632f273f71d0ab3b3a68e2827fcddb96200e85: [[attachments/Pasted Image 20220314124
 eaa6e5d1950214d47d51ed0ef6192157f2bf499c: [[attachments/Pasted Image 20220314125110_993.png]]
 53d494b8f641e54d9651c04a054fba33c6fd0632: [[attachments/Pasted Image 20220314130529_270.png]]
 b7352abc926c220ca79de2e7cec94d10bec4a6d6: [[attachments/Pasted Image 20220314131239_138.png]]
-47de0b58c27562e5d64002a9bc05b0343c96a360: [[career/2022-03 Amazon Cloud Architect/Services by Dalyle for AWS Career.md]]
+47de0b58c27562e5d64002a9bc05b0343c96a360: [[Services by Dalyle for AWS Career]]
 4c68eb7c5f9c96a83d1818e2320f58fbe0a0adbb: [[attachments/Pasted Image 20220314133114_650.png]]
 9fbe8b4f257ae0b8f632a23f85de3472dbb7dec4: [[101 - Greg Soft Skills]]
-d18f89fbac9b7f52e11329f4b750d4c5f0f9ed81: [[career/2022-03 Amazon Cloud Architect/102 - Greg Hard Skills.md]]
-77f2b216d31b5a4818d0bdd01cfb23a3245b8152: [[career/2022-03 Amazon Cloud Architect/_attachments/Pasted Image 20220314142323_844.png]]
-2e8be34b0c8ad3cb79a36ebc07c7f5a2a67a913c: [[career/2022-03 Amazon Cloud Architect/_attachments/Pasted Image 20220314160827_674.png]]
+d18f89fbac9b7f52e11329f4b750d4c5f0f9ed81: [[102 - Greg Hard Skills]]
+77f2b216d31b5a4818d0bdd01cfb23a3245b8152: [[Pasted Image 20220314142323_844.png]]
+2e8be34b0c8ad3cb79a36ebc07c7f5a2a67a913c: [[Pasted Image 20220314160827_674.png]]
 e3a6d9f678c797a84c4ad1dc2c49c37cf7dc973f: [[201 - Rambling]]
-3c404631fc6e9c5bdfdefcbacda6817907bc9902: [[career/2022-03 Amazon Cloud Architect/_attachments/Pasted Image 20220314220214_611.png]]
-59d7a0df7634066c86403f7e9b09ddd878e43aa3: [[career/2022-03 Amazon Cloud Architect/_attachments/Pasted Image 20220314220259_606.png]]
-f1e89e1cdd86988f26bf3c1371fed3533e4294ac: [[career/2022-03 Amazon Cloud Architect/_attachments/Pasted Image 20220314223238_214.png]]
-a03a8fffafc184c4ce617e4112f8f7df2a9156e1: [[career/2022-03 Amazon Cloud Architect/_attachments/Pasted Image 20220314223238_243.png]]
-95b46c2a0a166aa3f23c4aefffc51f291b21f926: [[career/2022-03 Amazon Cloud Architect/901 Screenshots.md]]
-740a29ffe6dbf62b7b6879b12829b41dc0f02461: [[career/2022-03 Amazon Cloud Architect/203 - Side Projects.md]]
-a25dd3637e9a2fa65a96b9878332ca275d84b9a9: [[career/2022-03 Amazon Cloud Architect/_attachments/Pasted image 20220314224005.png]]
-b942dba3d9ad5b340cc9c6668a1080715811849d: [[career/2022-03 Amazon Cloud Architect/_attachments/Pasted Image 20220315062802_374.png]]
-d176ff00ff8bbcfb83e104abb9cf4508e110ed2f: [[career/2022-03 Amazon Cloud Architect/_attachments/Pasted Image 20220315063050_790.png]]
+3c404631fc6e9c5bdfdefcbacda6817907bc9902: [[Pasted Image 20220314220214_611.png]]
+59d7a0df7634066c86403f7e9b09ddd878e43aa3: [[Pasted Image 20220314220259_606.png]]
+f1e89e1cdd86988f26bf3c1371fed3533e4294ac: [[Pasted Image 20220314223238_214.png]]
+a03a8fffafc184c4ce617e4112f8f7df2a9156e1: [[Pasted Image 20220314223238_243.png]]
+95b46c2a0a166aa3f23c4aefffc51f291b21f926: [[901 Screenshots]]
+740a29ffe6dbf62b7b6879b12829b41dc0f02461: [[203 - Side Projects]]
+a25dd3637e9a2fa65a96b9878332ca275d84b9a9: [[Pasted image 20220314224005.png]]
+b942dba3d9ad5b340cc9c6668a1080715811849d: [[Pasted Image 20220315062802_374.png]]
+d176ff00ff8bbcfb83e104abb9cf4508e110ed2f: [[Pasted Image 20220315063050_790.png]]
 
 %%
 # Drawing
